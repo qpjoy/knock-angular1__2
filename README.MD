@@ -11,3 +11,13 @@ batarang monitor
 
 node6
 npm install -g @angular/cli@1.0.0
+
+
+
+ng new demo01 -si --routing
+ng g component test (auto register)
+ng g service test -m (service => app module(provider))
+
+
+ng build --aot
+ng build -prod
