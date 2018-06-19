@@ -1,0 +1,13 @@
+www.joeeames.me
+
+https://github.com/joeeames/lightning-voter-demo
+
+angular-styleguide
+https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md
+
+angular seed
+
+batarang monitor
+
+node6
+npm install -g @angular/cli@1.0.0
